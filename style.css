@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    background-color: salmon;
+}
+
+#title-1, #title-2{
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 25px;  
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: yellowgreen;
+
+}
+
+.container {
+    height: 100vh;
+}
+
+.chart-wrapper {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
